@@ -1,0 +1,55 @@
+  .container{
+  align-content: center;
+  }
+  
+  .card{
+  height: 370px;
+  margin: 5% 0%;
+  width: 400px;
+  background-color: rgba(245, 245, 245, 0.5) !important;
+  }
+  
+  .card-header, .card-footer{
+    background: -webkit-linear-gradient(left, #3931af, #00c6ff);
+    color: #ffffff;
+  }
+  .card-footer a{
+    font-weight: bold;
+    color: #FF1A38;
+  }
+
+  
+  .input-group-prepend span{
+  width: 50px;
+  background-color: #FF1A38;
+  color: white;
+  border:0 !important;
+  }
+  
+  input:focus{
+  outline: 0 0 0 0  !important;
+  box-shadow: 0 0 0 0 !important;
+  
+  }
+  
+  .remember{
+  color: #333;
+  }
+  
+  .remember input
+  {
+  width: 20px;
+  height: 20px;
+  margin-left: 15px;
+  margin-right: 5px;
+  }
+  
+  .login_btn{
+  color:white;
+  background-color:#FF1A38;
+  width: 100px;
+  }
+  
+  .links a{
+  margin-left: 4px;
+  }

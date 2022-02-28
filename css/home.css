@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Mina:wght@400;700&display=swap');
+
+.card-header img{
+  width: 250px !important;
+  height: 150px !important;
+}
+
+
+.card .card-body:nth-child(2){
+    height: 150px;
+  }
+  
+  .card-body .card-title{
+    color:#FF1A38;
+  }
+  
+  .section-title {
+    font-family: 'Mina', sans-serif;
+    font-size: 50px;
+    font-weight: 100;
+    margin-bottom: 50px;
+    text-align: center;
+  }

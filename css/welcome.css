@@ -1,0 +1,15 @@
+
+.welcome {
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.welcome .alert-success{
+    text-align: center;
+    padding: 20px;
+    box-shadow: 0px 0px 20px #d2cece;
+}
+
+svg{
+font-size: 100px;  
+}

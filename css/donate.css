@@ -1,0 +1,83 @@
+.banner{
+    background:url(../img/gift.PNG), no-repeat;
+    background-size: cover;
+    opacity: 0.9;
+    height: 400px;
+    position: relative;
+    font-family: 'Ubuntu Condensed', sans-serif;
+
+}
+
+.main-banner .post-ad{
+    margin-top: 30%;
+}
+
+.main-banner a{
+border-radius: 0;
+  background: #FF1A38;
+  font-size: 20px;
+  color: #fff;
+  width: 50%;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.22);
+  padding: 10px 20px;
+}
+
+.agileits_search{
+  margin-bottom: 5%;
+}
+
+.agileits_search select {
+  margin-right: 2%;
+  color: #191e21;
+  width: 50%;
+  letter-spacing: 1px;
+  padding: 5px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.22);
+}
+
+.agileits_search input[type="submit"] {
+  border:none;
+  border-radius: 0;
+  background: #F45C5D;
+  color: #fff;
+  width: 20%;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.22);
+  padding: 6px 10px;
+}
+
+.card-header img{
+  width: 300px !important;
+  height: 100px !important;
+}
+
+.card .card-body:nth-child(2){
+  height: 150px;
+}
+
+.card-body .card-title{
+  color:#FF1A38;
+}
+
+.section-title {
+  font-family: "Raleway",sans-serif;
+  font-size: 50px;
+  font-weight: 100;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .main-banner .post-ad{
+    margin-top: 82%;
+    margin-left: 0;
+}
+
+.agileits_search a {
+  width: 40%;
+}
+
+.area_search{
+  margin-left: 10%;
+}
+
+}
